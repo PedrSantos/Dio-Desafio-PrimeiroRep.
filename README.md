@@ -1,5 +1,5 @@
 # Dio-Desafio-PrimeiroRep.
-Desafio de projeto sobre git/github
+ Repositorio criado para o Desafio de Projetos
 
 ## Links Úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org)
